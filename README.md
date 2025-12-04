@@ -63,13 +63,6 @@ I thrive on **technical leadership**: mentoring teams, driving architectural dec
 
 ---
 
-<!-- Snake Game (GitHub Contribution Graph) -->
-<div>
-  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
-  <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="210px" alt="Computer illustration" /> -->
-</div>
----
-
 ### 💡 **Engineering Philosophy**
 
 *   **Architecture First:** I believe in strategic, evolutionary design that balances immediate business needs with long-term scalability and maintainability.
